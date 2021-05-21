@@ -1,0 +1,12 @@
+Version 0.0.2
+- Add Mouse Control
+- Add clicakble intermission
+
+Version 0.0.3
+- Change gameplay feature : now you must destroy remaining enemy after enemy remaining reaches zero)
+- Change gameplay feature : there is short delay after completing level
+- now you can pause the game
+
+Version 0.0.4
+- pereparation and ship upgrade menu now separated
+- add consumable item: repair kit
